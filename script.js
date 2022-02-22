@@ -3,3 +3,8 @@ function getMoney(amount) {
 }
 
 getMoney(13)
+
+// another working function 
+const getSumOfMoney = (a, b) => {
+    console.log(a+b)
+}
