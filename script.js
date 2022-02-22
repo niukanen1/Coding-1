@@ -3,3 +3,8 @@ function getMoney(amount) {
 }
 
 getMoney(13)
+
+// second func 
+function another(a, b) { 
+    console.log(a - b)
+}
